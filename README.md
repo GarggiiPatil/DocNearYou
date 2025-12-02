@@ -56,6 +56,7 @@ It includes secure authentication, appointment management, a TF-IDF–based medi
 - **Face Recognition** → Doctor authentication  
 
 ###Snapshots
+
 <img width="760" height="435" alt="home_page" src="https://github.com/user-attachments/assets/8b86eba3-3eed-482a-9679-1d380b4c5ec5" />
 <img width="751" height="687" alt="doctor_login" src="https://github.com/user-attachments/assets/43e9b03b-f7d5-4dac-a86f-e55870e3128c" />
 <img width="744" height="364" alt="doctor_dashboard" src="https://github.com/user-attachments/assets/b05f0999-ea34-432f-9a7c-c68bbfb3e818" />
